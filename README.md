@@ -1,5 +1,5 @@
 **eCommerce MERN App**
-This is a complete eCommerce web application built using the MERN (MongoDB, Express, React, Node.js) stack. The project includes backend and frontend development, user authentication, admin panel, product management, filters, shopping cart.
+This eCommerce web application is built using the MERN (MongoDB, Express, React, Node.js) stack. The project includes backend and frontend development, user authentication, an admin panel, product management, filters, and a shopping cart.
 
 **Features**
 User Registration and Login with JWT Authentication
@@ -25,10 +25,10 @@ The admin can create, update, and delete categories and products. Image uploads 
 
 **Frontend**
 React Setup
-The frontend is built with React. It includes components for various pages and uses React Router for navigation between them.
+The front end is built with React. It includes components for various pages and uses React Router to navigate between them.
 
 **Admin Panel**
 The admin panel includes features for managing categories, products, and orders. It provides CRUD operations for both categories and products.
 
 **Shopping Cart**
-The shopping cart allows users to add, update, and remove products.Users can view their order history, and admins can manage order statuses.
+The shopping cart allows users to add, update, and remove products. Users can view their order history, and admins can manage order statuses.
