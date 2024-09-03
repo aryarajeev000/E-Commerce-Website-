@@ -18,7 +18,7 @@ The server is built using Node.js and Express. It handles the API requests and i
 The MongoDB connection is established using Mongoose, and environment variables are managed using the dotenv package.
 
 **User Authentication**
-User registration, login, and JWT-based authentication have been implemented. The backend uses bcrypt for password hashing and protects certain routes with middleware.
+User Registration, login, and JWT-based authentication have been implemented. The backend uses bcrypt for password hashing and protects certain routes with middleware.
 
 **Category and Product Management**
 The admin can create, update, and delete categories and products. Image uploads are handled as part of the product creation process.
