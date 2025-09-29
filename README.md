@@ -1,13 +1,13 @@
-E-Commerce Website
-Overview
+### E-Commerce Website
+## Overview
 
 This repository contains the source code for an E-Commerce website built with Node.js, Express, and MongoDB. The application allows users to browse products, place orders, and manage their profiles. Admins can manage products, categories, and order statuses. It includes a secure authentication system and a payment gateway integration.
 
 Project Structure
 
-client/: Frontend code (not covered here).
+# client/: Frontend code (not covered here).
 
-config/: Configuration files (e.g., database connection, environment variables).
+# config/: Configuration files (e.g., database connection, environment variables).
 
 controllers/: Logic for handling requests and interacting with models.
 
