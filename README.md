@@ -40,7 +40,7 @@ This file contains routes for user authentication.
 
 ### PUT /update-profile: Updates the user's profile.
 
-# 2. Category Routes (categoryRoutes.js)
+## 2. Category Routes (categoryRoutes.js)
 
 This file contains routes for managing product categories.
 
@@ -54,7 +54,7 @@ This file contains routes for managing product categories.
 
 ### GET /categories: Fetches all categories.
 
-# 3. Product Routes (productRoutes.js)
+## 3. Product Routes (productRoutes.js)
 
 This file contains routes for managing products.
 
